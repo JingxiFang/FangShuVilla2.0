@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_73">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.jstl_1.2.1">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.web.jstl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_73"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/oscore-2.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-api-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-api-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-core-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-core-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-core-2.11.2-tests.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jul-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jul-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-jul-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2-sources.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-web-2.11.2.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-web-2.11.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/2018-2019学期/Sql/project/apache-log4j-2.11.2-bin/log4j-web-2.11.2-sources.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
